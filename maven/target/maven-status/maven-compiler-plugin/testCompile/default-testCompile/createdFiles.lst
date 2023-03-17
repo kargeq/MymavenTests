@@ -1,0 +1,4 @@
+tests/mavens/FilterTest.class
+tests/mavens/RentableTest.class
+tests/mavens/LeaseTest.class
+tests/mavens/ListingTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.mavens.RentableTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 109.718 s - in tests.mavens.RentableTest
